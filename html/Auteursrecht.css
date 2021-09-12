@@ -1,9 +1,12 @@
 p {
-    font-size: 80pt
+    font-size: 15pt
 }
 p {
-    color: darkblue
+    color: black
 }
 body {
-    background-image: url(photo.jpg);
+    background-image: url(simple-pattern-with-css3.jpg);
+}
+h1 {
+    text-align: center;
 }
